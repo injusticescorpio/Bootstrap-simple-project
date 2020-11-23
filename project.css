@@ -1,0 +1,24 @@
+p{
+  font-size: 22px;
+}
+body{
+  padding-top: 50px;
+}
+#thanks{
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  text-align: right;
+
+}
+.carousel-item {
+  min-height: 200px;
+   max-height: 50%;
+}
+#coffee{
+  padding-top: 10px;
+}
+.carousel-caption .demo{
+  font-size:2px;
+  text-align: center;
+  color: red;
+}
